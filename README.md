@@ -19,6 +19,10 @@ Using a Random Forest model, I identified the top features influencing price.
 
 <img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/c1251f2a-e461-4af4-9e9b-8b131466da2e" />
 
+#### 2. Statistical Validation (Correlation Matrix)
+Before training, I analysed the dataset to understand linear relationships.
+* **Insight:** "Accommodates" (0.67) has the strongest positive correlation with price, while "Parking" (-0.01) has virtually no linear correlation, proving that high-value city listings often lack parking. 
+
 <img width="1162" height="989" alt="image" src="https://github.com/user-attachments/assets/1c2524a7-74ff-4d52-905f-ad5f54ca9fb0" />
 
 
